@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+ .bio{
+    
+    width: 1080px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: white;
+ }
+
+ .topnav{
+     background-color: white;
+     overflow: hidden;
+ }
+
+ body{
+     background-color: #d6d8db;
+ }
+ 
+ 
+ .topnav a{
+     float: left;
+     color: #000;
+     text-align: center;
+     text-decoration: none;
+     padding: 16px;
+     font-size: 17px;
+ }
+
+ #aboutme{
+     font-size: 50px;
+     line-height: 70px;
+ }
+
+ #line{
+     margin: 10px 0px;
+ }
+
+ .logoname a{
+     float: left;
+     background-color: aqua;
+     text-decoration: none;
+     text-align: center;
+     color: white;
+     padding: 9px;
+     font-size: 30px;
+ }
+
+ .footer{
+     text-align: center;
+     background-color: #24b59c;
+     padding: 0px 100px 100px 100px;
+     margin-top: 20px;
+ }
