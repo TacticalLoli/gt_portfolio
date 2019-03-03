@@ -89,3 +89,49 @@
      margin: 0px 20px;
  }
  
+ .portfimgs{
+     position: relative;
+     text-align: center;
+     color: white;
+ }
+
+ .img1{
+     position: absolute;
+     left: 100px;
+     background-color: #4aaaa5;
+     padding: 0px 72px;
+     top: 125px;
+     left: 75px;
+ }
+
+ .img2{
+    position: absolute;
+    left: 318px;
+    background-color: #4aaaa5;
+    padding: 0px 72px;
+    top: 125px;
+}
+
+.img3{
+    position: absolute;
+    left: 563px;
+    background-color: #4aaaa5;
+    padding: 0px 72px;
+    top: 125px;
+}
+
+.img4{
+    position: absolute;
+    left: 807px;
+    background-color: #4aaaa5;
+    padding: 0px 72px;
+    top: 125px;
+}
+
+.img5{
+    position: absolute;
+    left: 440px;
+    background-color: #4aaaa5;
+    padding: 0px 72px;
+    top: 335px;
+}
